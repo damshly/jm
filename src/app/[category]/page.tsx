@@ -18,14 +18,14 @@ export default function CategoryPage({ params }: { params: { category: string } 
 
       <Grid container spacing={3} justifyContent="center">
         {categoryItems.map((item) => (
-          <Grid item key={item.id}>
+          <Grid  key={item.id}>
             <Card sx={{ width: 250 }}>
               <CardMedia
                 sx={{ position: 'relative', height: 150 }}
               >
                 <Image
                   src={item.image}
-                  alt={item.name}
+                  alt={item.title}
                   fill
                   style={{ objectFit: 'cover' }}
                   sizes="(max-width: 600px) 100vw, 250px"
