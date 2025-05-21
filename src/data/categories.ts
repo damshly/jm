@@ -1,12 +1,12 @@
 export const categories = [
   {
     name: 'عصائر طازجة',
-    slug: 'fresh-juices',
+    slug: 'FreshJuices',
     image: '/imgs/cat/fresh-juices.jpg',
   },
   {
     name: 'عصائر ملكية',
-    slug: 'royal-juices-1',
+    slug: 'RoyalJuices',
     image: '/imgs/cat/royal-juices-1.jpg',
   },
   {
@@ -16,27 +16,27 @@ export const categories = [
   },
   {
     name: 'ميلك شيك',
-    slug: 'milk-shake',
+    slug: 'MilkShake',
     image: '/imgs/cat/milk-shake.jpg',
   },
   {
     name: 'موهيتو',
-    slug: 'mohito',
+    slug: 'Mojito',
     image: '/imgs/cat/mohito.jpg',
   },
   {
     name: 'آيس كريم',
-    slug: 'ice-cream',
+    slug: 'IceCream',
     image: '/imgs/cat/ice-cream.jpg',
   },
   {
     name: 'آساي',
-    slug: 'acai',
+    slug: 'Acai',
     image: '/imgs/cat/acai.jpg',
   },
   {
     name: 'حلويات',
-    slug: 'sweets',
+    slug: 'Sweets',
     image: '/imgs/cat/sweets.jpg',
   },
 ];
