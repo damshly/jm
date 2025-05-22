@@ -62,6 +62,15 @@ export default function Navbar() {
       >
         {t('categories')}
       </Box>
+      <Button
+              color="inherit"
+              onClick={() => {
+                const nextLang = i18n.language === 'ar' ? 'en' : 'ar';
+                i18n.changeLanguage(nextLang);
+              }}
+            >
+              {i18n.language === 'ar' ? 'EN' : 'ع'}
+            </Button>
       <List sx={{ py: 0 }}>
         {categories.map((cat) => (
           <ListItem key={cat.slug} disablePadding>
