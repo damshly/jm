@@ -1,0 +1,199 @@
+{
+    "categories": "الأصناف",
+    "millionFlavors": "مليون نكهة في كل قطرة",
+    "items": {
+      "acaiBerry": {
+        "title": "توت الأساي",
+        "description": "توت الأساي معروف بمحتواه الغني من مضادات الأكسدة وفوائده الصحية."
+      },
+      "acaiSmoothie": {
+        "title": "عصير الأساي",
+        "description": "سموثي منعش مصنوع من توت الأساي الطبيعي ومحليات طبيعية."
+      },
+      "avocadoJuice": {
+        "title": "عصير الأفوكادو",
+        "description": "عصير أفوكادو كريمي ومغذي مع لمسة من الليمون."
+      },
+      "hibiscusJuice": {
+        "title": "عصير الكركديه",
+        "description": "عصير الكركديه حامض ونابض بالحياة، مثالي للانتعاش."
+      },
+      "passionFruitJuice": {
+        "title": "عصير فاكهة العاطفة",
+        "description": "عصير فاكهة العاطفة الحلو والعطري طازجًا."
+      },
+      "pinaColada": {
+        "title": "بينا كولادا",
+        "description": "عصير استوائي كلاسيكي بنكهات الأناناس وجوز الهند."
+      },
+      "pomegranateJuice": {
+        "title": "عصير الرمان",
+        "description": "عصير الرمان غني ومليء بمضادات الأكسدة."
+      },
+      "strawberryRaspberryPomegranate": {
+        "title": "عصير الفراولة والتوت والرمان",
+        "description": "مزيج لذيذ من الفراولة والتوت والرمان."
+      },
+      "coconutIceCream": {
+        "title": "آيس كريم جوز الهند",
+        "description": "آيس كريم ناعم وكريمي بنكهات جوز الهند."
+      },
+      "mangoIceCream": {
+        "title": "آيس كريم المانجو",
+        "description": "آيس كريم المانجو الحلو والحامض، متعة استوائية."
+      },
+      "mixedIceCream": {
+        "title": "آيس كريم مختلط",
+        "description": "مزيج لذيذ من نكهات الآيس كريم المختلفة."
+      },
+      "kinderMilkShake": {
+        "title": "ميلك شيك كيندر",
+        "description": "ميلك شيك كيندر الشوكولاتة الكريمي بطعم غني."
+      },
+      "mangoMilkShake": {
+        "title": "ميلك شيك المانجو",
+        "description": "ميلك شيك المانجو المنعش مع بيوريه المانجو الطبيعي."
+      },
+      "nutellaMilkShake": {
+        "title": "ميلك شيك نوتيلا",
+        "description": "ميلك شيك نوتيلا الفاخر لمحبي الشوكولاتة."
+      },
+      "oreoMilkShake": {
+        "title": "ميلك شيك أوريو",
+        "description": "ميلك شيك بسكويت أوريو الكلاسيكي، علاج مثالي."
+      },
+      "pistachioMilkShake": {
+        "title": "ميلك شيك الفستق",
+        "description": "ميلك شيك الفستق المقرمش مع قوام كريمي."
+      },
+      "raffaelloMilkShake": {
+        "title": "ميلك شيك رافاييلو",
+        "description": "ميلك شيك بنكهة رافاييلو الغريبة مع جوز الهند واللوز."
+      },
+      "berriesHeaven": {
+        "title": "جنة التوت",
+        "description": "موهيتو فاكهي بمزيج من التوت الطازج."
+      },
+      "blueSky": {
+        "title": "السماء الزرقاء",
+        "description": "موهيتو منعش مع لمسة من بلو كوراكاو."
+      },
+      "oceanMojito": {
+        "title": "موهيتو المحيط",
+        "description": "موهيتو بارد ومنعش مستوحى من نسيم المحيط."
+      },
+      "passionFruitMojito": {
+        "title": "موهيتو فاكهة العاطفة",
+        "description": "موهيتو ممزوج بفاكهة العاطفة لنكهة استوائية."
+      },
+      "refreshingMojito": {
+        "title": "موهيتو منعش",
+        "description": "موهيتو كلاسيكي مصنوع من النعناع والليمون الطازج."
+      },
+      "samelMojito": {
+        "title": "موهيتو ساميل",
+        "description": "نكهة موهيتو فريدة من مكونات محلية."
+      },
+      "cheeseMango": {
+        "title": "جبنة المانجو",
+        "description": "مانجو لذيذ مع لمسة جبنة."
+      },
+      "cocoMango": {
+        "title": "مانجو جوز الهند",
+        "description": "حلوى مزيج جوز الهند والمانجو."
+      },
+      "coconutIce": {
+        "title": "ثلج جوز الهند",
+        "description": "حلوى ثلج جوز الهند المنعشة."
+      },
+      "greenMango": {
+        "title": "مانجو أخضر",
+        "description": "مانجو أخضر حامض مع التوابل."
+      },
+      "mangoIceCreamMongo": {
+        "title": "آيس كريم المانجو",
+        "description": "آيس كريم بنكهة المانجو من موسم المانجو."
+      },
+      "mangoTiramisu": {
+        "title": "تيراميسو المانجو",
+        "description": "حلوى تيراميسو المانجو اللذيذة."
+      },
+      "mixMongoSeason": {
+        "title": "مزيج",
+        "description": "مزيج من مختلف حلوى موسم المانجو."
+      },
+      "cinnabon": {
+        "title": "سينابون",
+        "description": "عصير ملكي حلو وحار."
+      },
+      "crystal": {
+        "title": "كريستال",
+        "description": "عصير ملكي صاف ومنعش."
+      },
+      "heartbeat": {
+        "title": "نبض القلب",
+        "description": "عصير بطعم قوي ومنعش."
+      },
+      "royal": {
+        "title": "رويال",
+        "description": "عصير ملكي كلاسيكي غني وممتلئ."
+      },
+      "snafi": {
+        "title": "سنافي",
+        "description": "عصير ملكي مميز بنكهة فريدة."
+      },
+      "twoCookies": {
+        "title": "2 كوكيز",
+        "description": "كوكيز مقرمشة لذيذة."
+      },
+      "cheesecake": {
+        "title": "تشيز كيك",
+        "description": "تشيز كيك كلاسيكي كريمي."
+      },
+      "churros": {
+        "title": "تشوروز",
+        "description": "معجنات مقلية مع السكر."
+      },
+      "cookiesWithIceCream": {
+        "title": "كوكيز مع آيس كريم",
+        "description": "آيس كريم يقدم مع الكوكيز."
+      },
+      "cooki": {
+        "title": "كوكي",
+        "description": "كوكيز لذيذة."
+      },
+      "crepe": {
+        "title": "كريب",
+        "description": "فطيرة فرنسية رقيقة."
+      },
+      "crepePistachioKunafa": {
+        "title": "كريب فستق وكنافة",
+        "description": "كريب بنكهات الفستق والكنافة."
+      },
+      "crispyCrepe": {
+        "title": "كريب مقرمش",
+        "description": "حلوى كريب مقرمشة."
+      },
+      "fettuccineCrepe": {
+        "title": "كريب فيتوتشيني",
+        "description": "كريب بأسلوب فيتوتشيني."
+      },
+      "lavaCake": {
+        "title": "كعكة اللافا",
+        "description": "كعكة الشوكولاتة اللافا مع مركز منصهر."
+      },
+      "pancake": {
+        "title": "بان كيك",
+        "description": "بان كيك هشة مع شراب."
+      },
+      "sushiCrepe": {
+        "title": "كريب السوشي",
+        "description": "كريب فريد مزيج مع السوشي."
+      },
+      "tiramisuMango": {
+        "title": "تيراميسو المانجو",
+        "description": "تيراميسو مع لمسة من المانجو."
+      }
+    }
+  }
+  
