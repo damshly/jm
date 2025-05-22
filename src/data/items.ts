@@ -189,7 +189,7 @@ export const items = [
     title: "items.cheeseMango.title",
     description: "items.cheeseMango.description",
     image: "/imgs/itm/mongoSeason/CheeseMango.jpg",
-    price: 10,
+    price: 30,
   },
   {
     id: 25,
@@ -197,7 +197,7 @@ export const items = [
     title: "items.cocoMango.title",
     description: "items.cocoMango.description",
     image: "/imgs/itm/mongoSeason/CocoMango.jpg",
-    price: 10,
+    price: 32,
   },
   {
     id: 26,
@@ -205,7 +205,7 @@ export const items = [
     title: "items.coconutIce.title",
     description: "items.coconutIce.description",
     image: "/imgs/itm/mongoSeason/CoconutIce.jpg",
-    price: 10,
+    price: 25,
   },
   {
     id: 27,
@@ -213,7 +213,7 @@ export const items = [
     title: "items.greenMango.title",
     description: "items.greenMango.description",
     image: "/imgs/itm/mongoSeason/Green-Mango.png",
-    price: 10,
+    price: 30,
   },
   {
     id: 28,
@@ -221,7 +221,7 @@ export const items = [
     title: "items.mangoIceCream.title",
     description: "items.mangoIceCream.description",
     image: "/imgs/itm/mongoSeason/MANGO-ICECREAM.jpg",
-    price: 10,
+    price: 25,
   },
   {
     id: 29,
@@ -229,15 +229,15 @@ export const items = [
     title: "items.mangoTiramisu.title",
     description: "items.mangoTiramisu.description",
     image: "/imgs/itm/mongoSeason/Mango-Tiramisu.png",
-    price: 10,
+    price: 28,
   },
   {
     id: 30,
     category: "mongo-season",
-    title: "items.mix.title",
-    description: "items.mix.description",
+    title: "items.mixedIceCream.title",
+    description: "items.mixedIceCream.description",
     image: "/imgs/itm/mongoSeason/MIX.jpg",
-    price: 10,
+    price: 25,
   },
   {
     id: 31,

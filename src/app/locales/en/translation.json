@@ -105,15 +105,15 @@
       "description": "Unique mojito flavor with local ingredients."
     },
     "cheeseMango": {
-      "title": "Mango Cheese",
+      "title": "Mango Cheese Cake",
       "description": "Delicious mango with a touch of cheese."
     },
     "cocoMango": {
-      "title": "Coconut Mango",
+      "title": "Coco Mango",
       "description": "A dessert blend of coconut and mango."
     },
     "coconutIce": {
-      "title": "Coconut Ice",
+      "title": "Coconut Ice Cream",
       "description": "Refreshing coconut ice dessert."
     },
     "greenMango": {
@@ -129,7 +129,7 @@
       "description": "Delicious mango tiramisu dessert."
     },
     "mixMongoSeason": {
-      "title": "Mix",
+      "title": "Mixed Ice Cream",
       "description": "A mix of various mango season desserts."
     },
     "cinnabon": {

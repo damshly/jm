@@ -54,7 +54,7 @@
         "description": "آيس كريم المانجو الحلو والحامض، متعة استوائية."
       },
       "mixedIceCream": {
-        "title": "آيس كريم مختلط",
+        "title": "أيس كريم الميكس",
         "description": "مزيج لذيذ من نكهات الآيس كريم المختلفة."
       },
       "kinderMilkShake": {
@@ -106,31 +106,31 @@
         "description": "نكهة موهيتو فريدة من مكونات محلية."
       },
       "cheeseMango": {
-        "title": "جبنة المانجو",
+        "title": "مانجو جيز كيك حبتين",
         "description": "مانجو لذيذ مع لمسة جبنة."
       },
       "cocoMango": {
-        "title": "مانجو جوز الهند",
+        "title": "كوكو مانجو",
         "description": "حلوى مزيج جوز الهند والمانجو."
       },
       "coconutIce": {
-        "title": "ثلج جوز الهند",
+        "title": "أيس كريم كوكنت",
         "description": "حلوى ثلج جوز الهند المنعشة."
       },
       "greenMango": {
-        "title": "مانجو أخضر",
+        "title": "حدال",
         "description": "مانجو أخضر حامض مع التوابل."
       },
       "mangoIceCreamMongo": {
-        "title": "آيس كريم المانجو",
+        "title": "أيس كريم مانجو",
         "description": "آيس كريم بنكهة المانجو من موسم المانجو."
       },
       "mangoTiramisu": {
-        "title": "تيراميسو المانجو",
+        "title": "تراميسو مانجو",
         "description": "حلوى تيراميسو المانجو اللذيذة."
       },
       "mixMongoSeason": {
-        "title": "مزيج",
+        "title": "أيس كريم الميكس",
         "description": "مزيج من مختلف حلوى موسم المانجو."
       },
       "cinnabon": {
