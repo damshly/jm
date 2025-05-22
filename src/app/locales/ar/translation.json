@@ -1,18 +1,29 @@
 {
-    "categories": "الأصناف",
+  "categoriesW": "الفئات ",
+    "categories": {
+      "Acai": "الاساي",
+      "FreshJuices": "عصائر فريش",
+      "IceCream": "الايس كريم",
+      "MilkShake": "ميلك شيك",
+      "Sweets": "سويتات",
+      "Mojito": "موهيتو",
+      "RoyalJuices": "عصائر ملكية",
+      "mongo-season": "موسم المانجو"
+      
+    },
     "millionFlavors": "مليون نكهة في كل قطرة",
     "items": {
       "acaiBerry": {
-        "title": "توت الأساي",
+        "title": "الاساي سقنتشر",
         "description": "توت الأساي معروف بمحتواه الغني من مضادات الأكسدة وفوائده الصحية."
       },
       "acaiSmoothie": {
-        "title": "عصير الأساي",
-        "description": "سموثي منعش مصنوع من توت الأساي الطبيعي ومحليات طبيعية."
+        "title": "الاساي سموثي",
+        "description": "اساي مع الفراواة و التوت الازرق و اشوفان و الموز"
       },
       "avocadoJuice": {
         "title": "عصير الأفوكادو",
-        "description": "عصير أفوكادو كريمي ومغذي مع لمسة من الليمون."
+        "description": "اساي مع الفراواة و التوت الازرق و اشوفان و الموز"
       },
       "hibiscusJuice": {
         "title": "عصير الكركديه",
@@ -167,7 +178,7 @@
         "description": "فطيرة فرنسية رقيقة."
       },
       "crepePistachioKunafa": {
-        "title": "كريب فستق وكنافة",
+        "title": "كريب بستاشيو وكنافة",
         "description": "كريب بنكهات الفستق والكنافة."
       },
       "crispyCrepe": {
@@ -179,7 +190,7 @@
         "description": "كريب بأسلوب فيتوتشيني."
       },
       "lavaCake": {
-        "title": "كعكة اللافا",
+        "title": "لافا كيك",
         "description": "كعكة الشوكولاتة اللافا مع مركز منصهر."
       },
       "pancake": {

@@ -44,8 +44,11 @@ export default function CategoryPage({ params }: { params: { category: string } 
                   {t(item.title)}
                 </Typography>
                 {/* ترجمة الوصف */}
-                <Typography variant="body2" color="text.secondary">
+                {/* <Typography variant="body2" color="text.secondary">
                   {t(item.description)}
+                </Typography> */}
+                <Typography variant="subtitle1" color="primary" mt={1}>
+                  {item.price.toFixed(2)} DHs
                 </Typography>
               </CardContent>
             </Card>

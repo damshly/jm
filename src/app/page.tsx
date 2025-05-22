@@ -9,17 +9,22 @@ import '@/app/i18n';
 
 export default function HomePage() {
   const { t } = useTranslation();
+  const translatedCategories = t('categories', { returnObjects: true });
 
   return (
     <Container sx={{ mt: 4, mb: 6 }}>
       <Typography variant="h4" gutterBottom textAlign="center">
-        {t('categories')}
+        {t('categoriesW')}
       </Typography>
 
       <Grid container spacing={3} justifyContent="center">
         {categories.map((cat) => (
-          <Grid key={cat.slug}>
-            <CategoryCard title={cat.name} image={cat.image} href={`/${cat.slug}`} />
+          <Grid item key={cat.slug}>
+            <CategoryCard
+              title={translatedCategories[cat.slug] || cat.name}
+              image={cat.image}
+              href={`/${cat.slug}`}
+            />
           </Grid>
         ))}
       </Grid>

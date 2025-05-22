@@ -1,199 +1,208 @@
 {
-    "categories": "Categories",
-    "millionFlavors": "Million Flavors in Every Drop",
-    "items": {
-      "acaiBerry": {
-        "title": "Acai Berry",
-        "description": "Acai berries are known for their rich antioxidant content and health benefits."
-      },
-      "acaiSmoothie": {
-        "title": "Acai Smoothie",
-        "description": "A refreshing smoothie made with pure acai berries and natural sweeteners."
-      },
-      "avocadoJuice": {
-        "title": "Avocado Juice",
-        "description": "Creamy and nutritious avocado juice with a hint of lime."
-      },
-      "hibiscusJuice": {
-        "title": "Hibiscus Juice",
-        "description": "Tangy and vibrant hibiscus juice, perfect for cooling down."
-      },
-      "passionFruitJuice": {
-        "title": "Passion Fruit Juice",
-        "description": "Sweet and aromatic passion fruit freshly squeezed."
-      },
-      "pinaColada": {
-        "title": "Piña Colada",
-        "description": "Classic tropical juice with pineapple and coconut flavors."
-      },
-      "pomegranateJuice": {
-        "title": "Pomegranate Juice",
-        "description": "Rich and antioxidant-packed pomegranate juice."
-      },
-      "strawberryRaspberryPomegranate": {
-        "title": "Strawberry Raspberry & Pomegranate",
-        "description": "A delicious blend of strawberry, raspberry, and pomegranate."
-      },
-      "coconutIceCream": {
-        "title": "Coconut Ice Cream",
-        "description": "Smooth and creamy coconut flavored ice cream."
-      },
-      "mangoIceCream": {
-        "title": "Mango Ice Cream",
-        "description": "Sweet and tangy mango ice cream, a tropical delight."
-      },
-      "mixedIceCream": {
-        "title": "Mixed Ice Cream",
-        "description": "A delicious mix of various ice cream flavors."
-      },
-      "kinderMilkShake": {
-        "title": "Kinder Milk Shake",
-        "description": "Creamy Kinder chocolate milkshake with a rich flavor."
-      },
-      "mangoMilkShake": {
-        "title": "Mango Milk Shake",
-        "description": "Refreshing mango milkshake with natural mango puree."
-      },
-      "nutellaMilkShake": {
-        "title": "Nutella Milk Shake",
-        "description": "Decadent Nutella milkshake for chocolate lovers."
-      },
-      "oreoMilkShake": {
-        "title": "Oreo Milk Shake",
-        "description": "Classic Oreo cookie milkshake, a perfect treat."
-      },
-      "pistachioMilkShake": {
-        "title": "Pistachio Milk Shake",
-        "description": "Nutty pistachio milkshake with creamy texture."
-      },
-      "raffaelloMilkShake": {
-        "title": "Raffaello Milk Shake",
-        "description": "Exotic Raffaello flavored milkshake with coconut and almond."
-      },
-      "berriesHeaven": {
-        "title": "Berries Heaven",
-        "description": "A fruity mojito with a mix of fresh berries."
-      },
-      "blueSky": {
-        "title": "Blue Sky",
-        "description": "Refreshing mojito with a twist of blue curacao."
-      },
-      "oceanMojito": {
-        "title": "Ocean Mojito",
-        "description": "Cool and refreshing mojito inspired by the ocean breeze."
-      },
-      "passionFruitMojito": {
-        "title": "Passion Fruit Mojito",
-        "description": "Mojito mixed with passion fruit for a tropical flavor."
-      },
-      "refreshingMojito": {
-        "title": "Refreshing Mojito",
-        "description": "Classic mojito made with fresh mint and lime."
-      },
-      "samelMojito": {
-        "title": "Samel Mojito",
-        "description": "Unique mojito flavor from local ingredients."
-      },
-      "cheeseMango": {
-        "title": "Cheese Mango",
-        "description": "Delicious mango with a cheesy twist."
-      },
-      "cocoMango": {
-        "title": "Coco Mango",
-        "description": "Coconut and mango combo dessert."
-      },
-      "coconutIce": {
-        "title": "Coconut Ice",
-        "description": "Refreshing coconut ice treat."
-      },
-      "greenMango": {
-        "title": "Green Mango",
-        "description": "Tangy green mango with spices."
-      },
-      "mangoIceCreamMongo": {
-        "title": "Mango Ice Cream",
-        "description": "Mango flavored ice cream from mango season."
-      },
-      "mangoTiramisu": {
-        "title": "Mango Tiramisu",
-        "description": "A delicious mango tiramisu dessert."
-      },
-      "mixMongoSeason": {
-        "title": "Mix",
-        "description": "A mix of various mango season treats."
-      },
-      "cinnabon": {
-        "title": "Cinnabon",
-        "description": "Sweet and spicy royal juice."
-      },
-      "crystal": {
-        "title": "Crystal",
-        "description": "Clear and refreshing royal juice."
-      },
-      "heartbeat": {
-        "title": "Heartbeat",
-        "description": "Juice with a powerful and energizing taste."
-      },
-      "royal": {
-        "title": "Royal",
-        "description": "Classic royal juice, rich and full-bodied."
-      },
-      "snafi": {
-        "title": "Snafi",
-        "description": "Unique and flavorful royal juice blend."
-      },
-      "twoCookies": {
-        "title": "2 Cookies",
-        "description": "Delicious crunchy cookies."
-      },
-      "cheesecake": {
-        "title": "Cheesecake",
-        "description": "Classic creamy cheesecake."
-      },
-      "churros": {
-        "title": "Churros",
-        "description": "Fried dough pastry with sugar."
-      },
-      "cookiesWithIceCream": {
-        "title": "Cookies with Ice Cream",
-        "description": "Ice cream served with cookies."
-      },
-      "cooki": {
-        "title": "Cooki",
-        "description": "Tasty cookies."
-      },
-      "crepe": {
-        "title": "Crepe",
-        "description": "Thin French pancake."
-      },
-      "crepePistachioKunafa": {
-        "title": "Crepe Pistachio Kunafa",
-        "description": "Crepe with pistachio and kunafa flavors."
-      },
-      "crispyCrepe": {
-        "title": "Crispy Crepe",
-        "description": "Crunchy crepe dessert."
-      },
-      "fettuccineCrepe": {
-        "title": "Fettuccine Crepe",
-        "description": "Fettuccine style crepe."
-      },
-      "lavaCake": {
-        "title": "Lava Cake",
-        "description": "Chocolate lava cake with molten center."
-      },
-      "pancake": {
-        "title": "Pancake",
-        "description": "Fluffy pancake with syrup."
-      },
-      "sushiCrepe": {
-        "title": "Sushi Crepe",
-        "description": "Unique sushi crepe fusion."
-      },
-      "tiramisuMango": {
-        "title": "Tiramisu Mango",
-        "description": "Tiramisu with a hint of mango."
-      }
+  "categoriesW": "categories",
+  "categories": {
+    "Acai": "Acai",
+    "FreshJuices": "Fresh Juices",
+    "IceCream": "Ice Cream",
+    "MilkShake": "Milkshake",
+    "Sweets": "Sweets",
+    "Mojito": "Mojito",
+    "RoyalJuices": "Royal Juices",
+    "mongo-season": "Mango Season"
+  },
+  "millionFlavors": "A million flavors in every drop",
+  "items": {
+    "acaiBerry": {
+      "title": "Acai Signature",
+      "description": "Acai berries are known for their rich antioxidant content and health benefits."
+    },
+    "acaiSmoothie": {
+      "title": "Acai Smoothie",
+      "description": "Acai with strawberries, blueberries, oats, and banana."
+    },
+    "avocadoJuice": {
+      "title": "Avocado Juice",
+      "description": "Acai with strawberries, blueberries, oats, and banana."
+    },
+    "hibiscusJuice": {
+      "title": "Hibiscus Juice",
+      "description": "Tangy and vibrant hibiscus juice, perfect for refreshment."
+    },
+    "passionFruitJuice": {
+      "title": "Passion Fruit Juice",
+      "description": "Sweet and aromatic passion fruit juice served fresh."
+    },
+    "pinaColada": {
+      "title": "Pina Colada",
+      "description": "A classic tropical drink with pineapple and coconut flavors."
+    },
+    "pomegranateJuice": {
+      "title": "Pomegranate Juice",
+      "description": "Rich pomegranate juice full of antioxidants."
+    },
+    "strawberryRaspberryPomegranate": {
+      "title": "Strawberry, Raspberry & Pomegranate Juice",
+      "description": "A delicious blend of strawberries, raspberries, and pomegranate."
+    },
+    "coconutIceCream": {
+      "title": "Coconut Ice Cream",
+      "description": "Smooth and creamy coconut-flavored ice cream."
+    },
+    "mangoIceCream": {
+      "title": "Mango Ice Cream",
+      "description": "Sweet and tangy mango ice cream, a tropical treat."
+    },
+    "mixedIceCream": {
+      "title": "Mixed Ice Cream",
+      "description": "A delicious mix of various ice cream flavors."
+    },
+    "kinderMilkShake": {
+      "title": "Kinder Milkshake",
+      "description": "Creamy Kinder chocolate milkshake with a rich taste."
+    },
+    "mangoMilkShake": {
+      "title": "Mango Milkshake",
+      "description": "Refreshing mango milkshake with natural mango purée."
+    },
+    "nutellaMilkShake": {
+      "title": "Nutella Milkshake",
+      "description": "Luxurious Nutella milkshake for chocolate lovers."
+    },
+    "oreoMilkShake": {
+      "title": "Oreo Milkshake",
+      "description": "Classic Oreo biscuit milkshake, a perfect treat."
+    },
+    "pistachioMilkShake": {
+      "title": "Pistachio Milkshake",
+      "description": "Crunchy pistachio milkshake with a creamy texture."
+    },
+    "raffaelloMilkShake": {
+      "title": "Raffaello Milkshake",
+      "description": "Exotic Raffaello-flavored milkshake with coconut and almond."
+    },
+    "berriesHeaven": {
+      "title": "Berries Heaven",
+      "description": "Fruity mojito with a blend of fresh berries."
+    },
+    "blueSky": {
+      "title": "Blue Sky",
+      "description": "Refreshing mojito with a touch of blue curaçao."
+    },
+    "oceanMojito": {
+      "title": "Ocean Mojito",
+      "description": "Chilled mojito inspired by the ocean breeze."
+    },
+    "passionFruitMojito": {
+      "title": "Passion Fruit Mojito",
+      "description": "Mojito infused with passion fruit for a tropical flavor."
+    },
+    "refreshingMojito": {
+      "title": "Refreshing Mojito",
+      "description": "Classic mojito made with fresh mint and lemon."
+    },
+    "samelMojito": {
+      "title": "Samel Mojito",
+      "description": "Unique mojito flavor with local ingredients."
+    },
+    "cheeseMango": {
+      "title": "Mango Cheese",
+      "description": "Delicious mango with a touch of cheese."
+    },
+    "cocoMango": {
+      "title": "Coconut Mango",
+      "description": "A dessert blend of coconut and mango."
+    },
+    "coconutIce": {
+      "title": "Coconut Ice",
+      "description": "Refreshing coconut ice dessert."
+    },
+    "greenMango": {
+      "title": "Green Mango",
+      "description": "Sour green mango with spices."
+    },
+    "mangoIceCreamMongo": {
+      "title": "Mango Ice Cream",
+      "description": "Mango-flavored ice cream from mango season."
+    },
+    "mangoTiramisu": {
+      "title": "Mango Tiramisu",
+      "description": "Delicious mango tiramisu dessert."
+    },
+    "mixMongoSeason": {
+      "title": "Mix",
+      "description": "A mix of various mango season desserts."
+    },
+    "cinnabon": {
+      "title": "Cinnabon",
+      "description": "Sweet and spicy royal juice."
+    },
+    "crystal": {
+      "title": "Crystal",
+      "description": "Clear and refreshing royal juice."
+    },
+    "heartbeat": {
+      "title": "Heartbeat",
+      "description": "Juice with a strong and refreshing taste."
+    },
+    "royal": {
+      "title": "Royal",
+      "description": "Classic royal juice, rich and full-bodied."
+    },
+    "snafi": {
+      "title": "Snafi",
+      "description": "Unique royal juice with a special flavor."
+    },
+    "twoCookies": {
+      "title": "2 Cookies",
+      "description": "Crunchy and delicious cookies."
+    },
+    "cheesecake": {
+      "title": "Cheesecake",
+      "description": "Classic creamy cheesecake."
+    },
+    "churros": {
+      "title": "Churros",
+      "description": "Fried pastry with sugar."
+    },
+    "cookiesWithIceCream": {
+      "title": "Cookies with Ice Cream",
+      "description": "Ice cream served with cookies."
+    },
+    "cooki": {
+      "title": "Cookie",
+      "description": "Delicious cookie."
+    },
+    "crepe": {
+      "title": "Crepe",
+      "description": "Thin French pancake."
+    },
+    "crepePistachioKunafa": {
+      "title": "Pistachio Kunafa Crepe",
+      "description": "Crepe with pistachio and kunafa flavors."
+    },
+    "crispyCrepe": {
+      "title": "Crispy Crepe",
+      "description": "Crispy crepe dessert."
+    },
+    "fettuccineCrepe": {
+      "title": "Fettuccine Crepe",
+      "description": "Crepe in fettuccine style."
+    },
+    "lavaCake": {
+      "title": "Lava Cake",
+      "description": "Chocolate lava cake with a molten center."
+    },
+    "pancake": {
+      "title": "Pancake",
+      "description": "Fluffy pancakes with syrup."
+    },
+    "sushiCrepe": {
+      "title": "Sushi Crepe",
+      "description": "Unique crepe blended with sushi style."
+    },
+    "tiramisuMango": {
+      "title": "Mango Tiramisu",
+      "description": "Tiramisu with a mango twist."
     }
   }
-  
+}
