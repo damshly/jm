@@ -194,7 +194,7 @@ export default function Navbar() {
                 i18n.changeLanguage(nextLang);
               }}
             >
-              {i18n.language === "ar" ? "EN" : "ع"}
+              {i18n.language === "ar" ? "English 🇺🇸" : "🇦🇪عربي"}
             </Button>
             {translatedCategories.map((cat) => (
               <Button
