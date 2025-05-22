@@ -42,7 +42,7 @@ export default function CategoryPage({
           <Grid key={item.id}>
             <Card
               sx={{
-                width: 250,
+                width: 300,
                 boxShadow: "8px 8px 8px rgba(0, 0, 0, 0.1)", // ظل خفيف
                 transition: "box-shadow 0.3s ease-in-out",
                 "&:hover": {
@@ -50,7 +50,7 @@ export default function CategoryPage({
                 },
               }}
             >
-              <CardMedia sx={{ position: "relative", height: 150 }}>
+              <CardMedia sx={{ position: "relative", height: 300 }}>
                 <Image
                   src={item.image}
                   alt={t(item.title)}

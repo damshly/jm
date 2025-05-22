@@ -21,7 +21,7 @@ export const items = [
     title: "items.avocadoJuice.title",
     description: "items.avocadoJuice.description",
     image: "/imgs/itm/FreshJuices/Avocado.jpg",
-    price: 12,
+    price: 18,
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const items = [
     title: "items.hibiscusJuice.title",
     description: "items.hibiscusJuice.description",
     image: "/imgs/itm/FreshJuices/Hibiscus.jpg",
-    price: 12,
+    price: 15,
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const items = [
     title: "items.passionFruitJuice.title",
     description: "items.passionFruitJuice.description",
     image: "/imgs/itm/FreshJuices/Passion-Fruit.jpg",
-    price: 12,
+    price: 18,
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const items = [
     title: "items.pinaColada.title",
     description: "items.pinaColada.description",
     image: "/imgs/itm/FreshJuices/Piña-Colada.jpeg",
-    price: 12,
+    price: 21,
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const items = [
     title: "items.pomegranateJuice.title",
     description: "items.pomegranateJuice.description",
     image: "/imgs/itm/FreshJuices/Pomegranate.jpg",
-    price: 12,
+    price: 15,
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const items = [
     title: "items.strawberryRaspberryPomegranate.title",
     description: "items.strawberryRaspberryPomegranate.description",
     image: "/imgs/itm/FreshJuices/Strawberry-Raspberry-and-Pomegranate.jpg",
-    price: 12,
+    price: 17,
   },
   {
     id: 9,
