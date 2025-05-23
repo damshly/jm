@@ -5,7 +5,7 @@ export const items = [
     title: "items.acaiBerry.title",
     description: "items.acaiBerry.description",
     image: "/imgs/itm/Acai/Açai.jpg",
-    price: 10,
+    price: 30,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const items = [
     title: "items.acaiSmoothie.title",
     description: "items.acaiSmoothie.description",
     image: "/imgs/itm/Acai/Açai-Smoothie.jpg",
-    price: 10,
+    price: 25,
   },
   {
     id: 3,
@@ -69,7 +69,7 @@ export const items = [
     title: "items.coconutIceCream.title",
     description: "items.coconutIceCream.description",
     image: "/imgs/itm/IceCream/Coconut.jpg",
-    price: 8,
+    price: 25,
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const items = [
     title: "items.mangoIceCream.title",
     description: "items.mangoIceCream.description",
     image: "/imgs/itm/IceCream/Mango.jpg",
-    price: 8,
+    price: 25,
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const items = [
     title: "items.mixedIceCream.title",
     description: "items.mixedIceCream.description",
     image: "/imgs/itm/IceCream/Mixed.jpg",
-    price: 8,
+    price: 25,
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const items = [
     title: "items.kinderMilkShake.title",
     description: "items.kinderMilkShake.description",
     image: "/imgs/itm/MilkShake/Kinder.jpg",
-    price: 10,
+    price: 21,
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const items = [
     title: "items.mangoMilkShake.title",
     description: "items.mangoMilkShake.description",
     image: "/imgs/itm/MilkShake/Mango.jpg",
-    price: 10,
+    price: 23,
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const items = [
     title: "items.nutellaMilkShake.title",
     description: "items.nutellaMilkShake.description",
     image: "/imgs/itm/MilkShake/Nutella.jpg",
-    price: 10,
+    price: 21,
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const items = [
     title: "items.oreoMilkShake.title",
     description: "items.oreoMilkShake.description",
     image: "/imgs/itm/MilkShake/Oreo.jpg",
-    price: 10,
+    price: 21,
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const items = [
     title: "items.pistachioMilkShake.title",
     description: "items.pistachioMilkShake.description",
     image: "/imgs/itm/MilkShake/Pistachio.jpg",
-    price: 10,
+    price: 22,
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const items = [
     title: "items.raffaelloMilkShake.title",
     description: "items.raffaelloMilkShake.description",
     image: "/imgs/itm/MilkShake/Raffaello.jpg",
-    price: 10,
+    price: 21,
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const items = [
     title: "items.berriesHeaven.title",
     description: "items.berriesHeaven.description",
     image: "/imgs/itm/Mojito/Berries-Heaven.jpg",
-    price: 12,
+    price: 18,
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const items = [
     title: "items.blueSky.title",
     description: "items.blueSky.description",
     image: "/imgs/itm/Mojito/Blue-Sky.jpg",
-    price: 12,
+    price: 15,
   },
   {
     id: 20,
@@ -157,7 +157,7 @@ export const items = [
     title: "items.oceanMojito.title",
     description: "items.oceanMojito.description",
     image: "/imgs/itm/Mojito/Ocean.jpg",
-    price: 12,
+    price: 15,
   },
   {
     id: 21,
@@ -165,7 +165,7 @@ export const items = [
     title: "items.passionFruitMojito.title",
     description: "items.passionFruitMojito.description",
     image: "/imgs/itm/Mojito/Passion-Fruit.jpg",
-    price: 12,
+    price: 18,
   },
   {
     id: 22,
@@ -173,7 +173,7 @@ export const items = [
     title: "items.refreshingMojito.title",
     description: "items.refreshingMojito.description",
     image: "/imgs/itm/Mojito/Refreshing.jpg",
-    price: 12,
+    price: 15,
   },
   {
     id: 23,
@@ -181,7 +181,7 @@ export const items = [
     title: "items.samelMojito.title",
     description: "items.samelMojito.description",
     image: "/imgs/itm/Mojito/Samel.jpg",
-    price: 12,
+    price: 18,
   },
   {
     id: 24,
@@ -253,7 +253,7 @@ export const items = [
     title: "items.crystal.title",
     description: "items.crystal.description",
     image: "/imgs/itm/RoyalJuices/Crystal.jpg",
-    price: 12,
+    price: 15,
   },
   {
     id: 33,
@@ -261,7 +261,7 @@ export const items = [
     title: "items.heartbeat.title",
     description: "items.heartbeat.description",
     image: "/imgs/itm/RoyalJuices/Heartbeat.jpg",
-    price: 12,
+    price: 15,
   },
   {
     id: 34,
@@ -269,7 +269,7 @@ export const items = [
     title: "items.royal.title",
     description: "items.royal.description",
     image: "/imgs/itm/RoyalJuices/Royal.jpg",
-    price: 12,
+    price: 15,
   },
   {
     id: 35,
@@ -277,7 +277,7 @@ export const items = [
     title: "items.snafi.title",
     description: "items.snafi.description",
     image: "/imgs/itm/RoyalJuices/Snafi.jpg",
-    price: 12,
+    price: 21,
   },
   {
     id: 44,
@@ -285,7 +285,7 @@ export const items = [
     title: "items.twoCookies.title",
     description: "items.twoCookies.description",
     image: "/imgs/itm/Sweets/2-Cookies.jpg",
-    price: 10,
+    price: 22,
   },
   {
     id: 45,
@@ -293,7 +293,7 @@ export const items = [
     title: "items.cheesecake.title",
     description: "items.cheesecake.description",
     image: "/imgs/itm/Sweets/Cheesecake.jpeg",
-    price: 10,
+    price: 12,
   },
   {
     id: 46,
@@ -301,7 +301,7 @@ export const items = [
     title: "items.churros.title",
     description: "items.churros.description",
     image: "/imgs/itm/Sweets/Churros.jpeg",
-    price: 10,
+    price: 14,
   },
   {
     id: 47,
@@ -309,7 +309,7 @@ export const items = [
     title: "items.cooki.title",
     description: "items.cooki.description",
     image: "/imgs/itm/Sweets/cooki.jpg",
-    price: 10,
+    price: 12,
   },
   {
     id: 48,
@@ -317,7 +317,7 @@ export const items = [
     title: "items.cookiesWithIceCream.title",
     description: "items.cookiesWithIceCream.description",
     image: "/imgs/itm/Sweets/Cookies-with-Ice-Cream.jpg",
-    price: 10,
+    price: 19,
   },
   {
     id: 49,
@@ -325,7 +325,7 @@ export const items = [
     title: "items.crepePistachioKunafa.title",
     description: "items.crepePistachioKunafa.description",
     image: "/imgs/itm/Sweets/Crepe-Pistachio-Kunafa.jpg",
-    price: 10,
+    price: 25,
   },
   {
     id: 50,
@@ -333,7 +333,7 @@ export const items = [
     title: "items.crepe.title",
     description: "items.crepe.description",
     image: "/imgs/itm/Sweets/Crepe.jpg",
-    price: 10,
+    price: 23,
   },
   {
     id: 51,
@@ -341,7 +341,7 @@ export const items = [
     title: "items.crispyCrepe.title",
     description: "items.crispyCrepe.description",
     image: "/imgs/itm/Sweets/Crispy-Crepe.jpg",
-    price: 10,
+    price: 23,
   },
   {
     id: 52,
@@ -349,7 +349,7 @@ export const items = [
     title: "items.fettuccineCrepe.title",
     description: "items.fettuccineCrepe.description",
     image: "/imgs/itm/Sweets/Fettuccine-Crepe.jpg",
-    price: 10,
+    price: 25,
   },
   {
     id: 53,
@@ -357,7 +357,7 @@ export const items = [
     title: "items.lavaCake.title",
     description: "items.lavaCake.description",
     image: "/imgs/itm/Sweets/Lava-cake.jpeg",
-    price: 10,
+    price: 23,
   },
   {
     id: 54,
@@ -365,7 +365,7 @@ export const items = [
     title: "items.pancake.title",
     description: "items.pancake.description",
     image: "/imgs/itm/Sweets/Pancake.jpg",
-    price: 10,
+    price: 21,
   },
   {
     id: 55,
@@ -373,7 +373,7 @@ export const items = [
     title: "items.sushiCrepe.title",
     description: "items.sushiCrepe.description",
     image: "/imgs/itm/Sweets/Sushi-Crepe.jpg",
-    price: 10,
+    price: 25,
   },
   {
     id: 56,
@@ -381,7 +381,7 @@ export const items = [
     title: "items.tiramisuMango.title",
     description: "items.tiramisuMango.description",
     image: "/imgs/itm/Sweets/Tiramisu-Mango.jpeg",
-    price: 10,
+    price: 25,
   },
 ];
 
