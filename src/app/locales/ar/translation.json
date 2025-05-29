@@ -103,19 +103,19 @@
       },
       "samelMojito": {
         "title": "صامل",
-        "description": "نكهة موهيتو فريدة من مكونات محلية."
+        "description": "مانجو اخضر بنكهة سبايسي لطيف"
       },
       "cheeseMango": {
         "title": "مانجو جيز كيك حبتين",
-        "description": "مانجو لذيذ مع لمسة جبنة."
+        "description": "جيز كيك محشي بصوص المانجو"
       },
       "cocoMango": {
         "title": "كوكو مانجو",
-        "description": "حلوى مزيج جوز الهند والمانجو."
+        "description": "تراميسو المانجو مع جوز الهند"
       },
       "coconutIce": {
         "title": "أيس كريم كوكنت",
-        "description": "حلوى ثلج جوز الهند المنعشة."
+        "description": "ايسكريم جوز الهند  فريش."
       },
       "greenMango": {
         "title": "حدال",
@@ -123,15 +123,15 @@
       },
       "mangoIceCreamMongo": {
         "title": "أيس كريم مانجو",
-        "description": "آيس كريم بنكهة المانجو من موسم المانجو."
+        "description": "آيس كريم بنكهة المانجو فريش."
       },
       "mangoTiramisu": {
         "title": "تراميسو مانجو",
-        "description": "حلوى تيراميسو المانجو اللذيذة."
+        "description": "كريمة مع كيك بنكهة المانجو"
       },
       "mixMongoSeason": {
         "title": "أيس كريم الميكس",
-        "description": "مزيج من مختلف حلوى موسم المانجو."
+        "description": "ايسكريم ميكس مانجو و جوز الهند"
       },
       "cinnabon": {
         "title": "سينابون",

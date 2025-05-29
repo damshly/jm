@@ -19,7 +19,7 @@ export default function HomePage() {
 
       <Grid container spacing={3} justifyContent="center">
         {categories.map((cat) => (
-          <Grid item key={cat.slug}>
+          <Grid key={cat.slug}>
             <CategoryCard
               title={translatedCategories[cat.slug] || cat.name}
               image={cat.image}

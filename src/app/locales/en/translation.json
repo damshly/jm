@@ -46,15 +46,15 @@
     },
     "coconutIceCream": {
       "title": "Coconut Ice Cream",
-      "description": "Smooth and creamy coconut-flavored ice cream."
+      "description": ""
     },
     "mangoIceCream": {
       "title": "Mango Ice Cream",
-      "description": "Sweet and tangy mango ice cream, a tropical treat."
+      "description": ""
     },
     "mixedIceCream": {
       "title": "Mixed Ice Cream",
-      "description": "A delicious mix of various ice cream flavors."
+      "description": ""
     },
     "kinderMilkShake": {
       "title": "Kinder Milkshake",
@@ -106,31 +106,31 @@
     },
     "cheeseMango": {
       "title": "Mango Cheese Cake",
-      "description": "Delicious mango with a touch of cheese."
+      "description": ""
     },
     "cocoMango": {
       "title": "Coco Mango",
-      "description": "A dessert blend of coconut and mango."
+      "description": ""
     },
     "coconutIce": {
       "title": "Coconut Ice Cream",
-      "description": "Refreshing coconut ice dessert."
+      "description": ""
     },
     "greenMango": {
       "title": "Green Mango",
-      "description": "Sour green mango with spices."
+      "description": ""
     },
     "mangoIceCreamMongo": {
       "title": "Mango Ice Cream",
-      "description": "Mango-flavored ice cream from mango season."
+      "description": ""
     },
     "mangoTiramisu": {
       "title": "Mango Tiramisu",
-      "description": "Delicious mango tiramisu dessert."
+      "description": ""
     },
     "mixMongoSeason": {
       "title": "Mixed Ice Cream",
-      "description": "A mix of various mango season desserts."
+      "description": ""
     },
     "cinnabon": {
       "title": "Cinnabon",
