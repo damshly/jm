@@ -3,6 +3,7 @@
 import { useRouter } from 'next/navigation';
 import { MouseEventHandler } from 'react';
 import { Box, Typography, Chip } from '@mui/material';
+import { t } from 'i18next';
 
 type Props = {
   title: string;
@@ -43,7 +44,7 @@ export default function CategoryCard({ title, image, href, highlight }: Props) {
       {/* شارة "مميز" */}
       {highlight && (
         <Chip
-          label="مميز ✨"
+          label={t('highlight')}
           color="primary"
           size="small"
           sx={{

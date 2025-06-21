@@ -78,10 +78,10 @@ export default function HomePage() {
          textAlign: isRTL ? 'right' : 'left',
        }}
      >
-       <Typography variant="h5" color="primary" gutterBottom>
+       <Typography variant="h4" color="primary" gutterBottom>
          {t('seasonalSpecial') || 'قائمة الموسم'}
        </Typography>
-       <Typography variant="body1">
+       <Typography variant="h5">
          {t('seasonalDescription') ||
           'seasonalDescription' }
        </Typography>
