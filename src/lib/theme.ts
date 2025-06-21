@@ -15,3 +15,19 @@ export const theme = createTheme({
     fontFamily: 'Roboto, sans-serif',
   },
 });
+
+
+export const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+    primary: {
+      main: '#dd552b',
+    },
+    secondary: {
+      main: '#9c27b0',
+    },
+  },
+  typography: {
+    fontFamily: 'Roboto, sans-serif',
+  },
+});

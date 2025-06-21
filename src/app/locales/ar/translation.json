@@ -1,5 +1,7 @@
 {
-  "categoriesW": "الفئات ",
+  "categoriesW": "قائمة التصنيفات",
+  "seasonalSpecial": "قائمة الموسم",
+  "seasonalDescription": "جرب أشهى سويتات و ايسكريمات التي اخترناها لك هذا الموسم بعناية.",
     "categories": {
       "Acai": "الاساي",
       "FreshJuices": "عصائر فريش",
