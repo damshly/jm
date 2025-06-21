@@ -245,7 +245,7 @@ export const items = [
     title: "items.cinnabon.title",
     // description: "items.cinnabon.// description",
     image: "/imgs/itm/RoyalJuices/Cinnabon.jpg",
-    price: 12,
+    price: 15,
   },
   {
     id: 32,
@@ -384,4 +384,3 @@ export const items = [
     price: 25,
   },
 ];
-
