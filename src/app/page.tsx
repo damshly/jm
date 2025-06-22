@@ -42,7 +42,7 @@ export default function HomePage() {
     bgcolor: 'rgba(255, 244, 229, 0.4)',
     borderRadius: 2,
     alignItems: 'center',
-    flexWrap: 'nowrap',
+    flexWrap: 'wrap',
   }}
 >
 
@@ -52,8 +52,8 @@ export default function HomePage() {
      item
      sx={{
        flexShrink: 0,
-       minWidth: { xs: 200, md: 300 }, 
-       maxWidth: { md: 400 },
+       minWidth: { xs: "100%", md: "100%" }, 
+       maxWidth: { md: "100%" },
      }}
    >
      <CategoryCard
@@ -94,7 +94,7 @@ export default function HomePage() {
   {/* قسم بقية التصنيفات */}
   <Grid container spacing={3} justifyContent="center">
     {otherCategories.map((cat) => (
-      <Grid item key={cat.slug} xs={12} sm={6} md={4}>
+      <Grid item key={cat.slug} xs={6} sm={6} md={4} lg={3}>
         <CategoryCard
           title={translatedCategories[cat.slug] || cat.name}
           image={cat.image}

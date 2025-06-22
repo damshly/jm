@@ -24,23 +24,29 @@ export default function CategoryCard({ title, image, href, highlight }: Props) {
   };
 
   return (
-    <Box
-      onMouseEnter={handleMouseEnter}
-      onMouseDown={handleMouseDown}
-      sx={{
-        cursor: 'pointer',
-        borderRadius: 3,
-        overflow: 'hidden',
-        boxShadow: highlight ? 6 : 2,
-        border: highlight ? '3px solid #dd552b' : '1px solid #ddd',
-        position: 'relative',
-        transition: '0.3s',
-        '&:hover': {
-          boxShadow: 8,
-          transform: highlight ? 'scale(1.01)' : 'none',
-        },
-      }}
-    >
+<Box
+  onMouseEnter={handleMouseEnter}
+  onMouseDown={handleMouseDown}
+  sx={{
+    width: '100%',
+    maxWidth: 400,
+    mx: 'auto',
+    cursor: 'pointer',
+    borderRadius: 3,
+    overflow: 'hidden',
+    boxShadow: highlight ? 6 : 2,
+    border: highlight ? '3px solid #dd552b' : '1px solid #ddd',
+    position: 'relative',
+    transition: '0.3s',
+    '&:hover': {
+      boxShadow: 8,
+      transform: highlight ? 'scale(1.01)' : 'none',
+    },
+  }}
+>
+
+
+
       {/* شارة "مميز" */}
       {highlight && (
         <Chip
