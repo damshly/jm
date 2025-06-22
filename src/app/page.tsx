@@ -43,7 +43,7 @@ export default function HomePage() {
     borderRadius: 2,
     alignItems: 'center',
     flexWrap: 'wrap',
-  }}
+      }}
 >
 
   

@@ -29,7 +29,7 @@ export default function CategoryCard({ title, image, href, highlight }: Props) {
   onMouseDown={handleMouseDown}
   sx={{
     width: '100%',
-    maxWidth: 400,
+    maxWidth: 300,
     mx: 'auto',
     cursor: 'pointer',
     borderRadius: 3,
