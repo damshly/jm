@@ -21,6 +21,8 @@ export default function Footer() {
   return (
     <Box
       component="footer"
+      display="flex"
+      flexDirection="column"
       sx={{
         backgroundColor: theme.palette.primary.main,
         color: "#fff",
@@ -32,7 +34,8 @@ export default function Footer() {
       <Box
         sx={{
           display: "flex",
-          flexDirection: isMobile ? "column" : "row",
+          flexWrap: "wrap",
+          flexDirection: "row",
           justifyContent: "space-between",
           alignItems: "center",
           gap: isMobile ? 2 : 0,
