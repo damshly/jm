@@ -10,8 +10,7 @@ import {
 } from "@mui/material";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import InstagramIcon from "@mui/icons-material/Instagram";
-// import { FaSnapchatGhost } from "react-icons/fa";
-import TiktokIcon from "@/components/TiktokIcon";
+import { FaTiktok } from "react-icons/fa";
 import {links} from "@/data/links";
 
 export default function Footer() {
@@ -67,7 +66,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             color="inherit"
           >
-            <TiktokIcon />
+            <FaTiktok />
           </IconButton>
 
           {/* <IconButton
