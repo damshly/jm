@@ -47,4 +47,10 @@ export const categories = [
     image: '/imgs/cat/sweets.jpg',
     highlight: false,
   },
+  {
+    name: 'سلاش',
+    slug: 'Slash',
+    image: '/imgs/cat/slash.jpeg',
+    highlight: false,
+  },
 ];
