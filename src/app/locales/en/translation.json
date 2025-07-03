@@ -1,4 +1,5 @@
 {
+  "Special": "Loz Season ✨",
   "highlight": "Highlight ✨",
   "seasonalSpecial": "Seasonal Special",
   "seasonalDescription": "Try the most delicious sweets and ice creams that we have carefully selected for you this season.",
@@ -207,6 +208,15 @@
     "tiramisuMango": {
       "title": "Mango Tiramisu",
       "description": "Tiramisu with a mango twist."
-    }
+    },
+    "bedaam": {
+        "title": "Loz fresh",
+        "description": "Fresh Loz with a distinctive flavor mixture."
+      },
+      "bidaam_ice": {
+            "title": "Loz Ice Cream",
+            "description": "Loz ice cream with a distinctive flavor."
+      }
+      
   }
-}
+  }

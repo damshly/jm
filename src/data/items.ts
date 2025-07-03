@@ -383,4 +383,23 @@ export const items = [
     image: "/imgs/itm/Sweets/Tiramisu-Mango.jpeg",
     price: 25,
   },
+  {
+    id: 57,
+    category: "Bedaam",
+    title: "items.bedaam.title",
+    description: "items.bedaam.description",
+    image: "/imgs/itm/bedaam/bedaam.jpg",
+    isFeatured: true,
+    price: 30,
+  },
+  {
+    id: 58,
+    category: "Bedaam",
+    title: "items.bidaam_ice.title",
+    description: "items.bidaam_ice.description",
+    image: "/imgs/itm/bedaam/bedaam_ice.jpeg",
+    isFeatured: true,
+
+    price: 29,
+  },
 ];

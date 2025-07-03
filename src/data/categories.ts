@@ -53,4 +53,10 @@ export const categories = [
     image: '/imgs/cat/slash.jpeg',
     highlight: false,
   },
+  {
+    name: 'بيدام',
+    slug: 'Bedaam',
+    image: '/imgs/cat/bedaam.jpg',
+    highlight: false,
+  }
 ];
