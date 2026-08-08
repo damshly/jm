@@ -1,22 +1,29 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 
-// استيراد ملفات الترجمة
-import en from '@/app/locales/en/translation.json';
-import ar from '@/app/locales/ar/translation.json';
+// Polyfill بسيط ومباشر يمنع السيرفر من الانهيار إذا تم استدعاء localStorage
+if (typeof window === 'undefined') {
+  (global as any).localStorage = {
+    getItem: () => null,
+    setItem: () => { },
+    removeItem: () => { },
+    clear: () => { },
+  };
+}
 
-i18n
-  .use(initReactI18next)
-  .init({
-    lng: 'en', // اللغة الافتراضية
-    fallbackLng: 'en',
-    interpolation: {
-      escapeValue: false,
-    },
-    resources: {
-      en: { translation: en },
-      ar: { translation: ar },
-    },
-  });
+if (!i18n.isInitialized) {
+  i18n
+    .use(initReactI18next)
+    .init({
+      resources: {
+        // حط ملفات الترجمة تبعك هون
+      },
+      lng: 'ar',
+      fallbackLng: 'ar',
+      interpolation: {
+        escapeValue: false,
+      },
+    });
+}
 
 export default i18n;
